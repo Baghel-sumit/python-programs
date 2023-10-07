@@ -11,3 +11,9 @@ dict1 = {
 }
 
 print('printing table', dict1)
+
+dict1["priyanka"] = 34
+print(dict1)
+print(dict1.get("priyanka chopra"))
+print(dict1.keys())
+print(dict1.values())
