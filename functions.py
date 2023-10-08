@@ -13,6 +13,3 @@ def average(a, b):
 greetHello("Sumit", 'bye bye')
 letterGenerator('sumit')
 average(1, 2)
-
-
-# 1: 49 --> video timing
